@@ -5,4 +5,4 @@ baseurl: "/home"
 url: "https://sebastianhndelorenzo.github.io/"
 github_username: sebastianhndelorenzo
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-modernist
